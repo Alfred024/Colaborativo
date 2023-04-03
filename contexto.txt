@@ -1,0 +1,4 @@
+Quiero que practiquemos el trabajo colaborativo en este repositorio, ustedes van a clonar 
+el repo y van a hacer pull requests, 
+ git clone urlRepo --> Clonar repo
+ git push origin main --> Mandar cambios 
