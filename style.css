@@ -1,7 +1,28 @@
 
 
 .footer-container{
+    height: 200px;
+    background-color: rgb(57, 57, 237);
+    width: 100%;
     position: absolute;
     bottom: 0;
+    left: 0;
+}
 
+.list-container{
+    text-align: center;
+    color: white;
+}
+
+#contact{
+    text-decoration: none;
+    color: white;
+}
+
+#contact:hover{
+    color: rgb(141, 202, 255);
+}
+
+.list-container li{
+    list-style: none;
 }
