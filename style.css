@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cabecera{
+    width: 80vw;
+    height: 70px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+    place-items: center;
+    padding: 0px 10px;
+    border: solid rgb(214, 180, 119);
+    background-color: rgb(169, 113, 224);
+    color: white;
+}
